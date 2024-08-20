@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-	<remote fetch="ssh://git@192.168.30.10:36822" name="origin"/>
+	<remote fetch="http://192.168.30.10:36880" name="origin"/>
     
     <!-- ssh://git@192.168.30.10:36822/rpp-sw-group/rpp_osal.git  -->
 	<project name="rpp_osal.git" path="rpp-sw-group" remote="origin" revision="master" upstream="master"/>
