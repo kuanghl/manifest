@@ -1,0 +1,2 @@
+# manifest
+for git-repo. 
