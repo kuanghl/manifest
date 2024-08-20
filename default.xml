@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <manifest>
-	<remote fetch="ssh://git@192.168.30.10:36822/" name="origin"/>
+	<remote fetch="ssh://git@192.168.30.10:36822" name="origin"/>
     
     <!-- ssh://git@192.168.30.10:36822/rpp-sw-group/rpp_osal.git  -->
-	<project name="rpp-sw-group/rpp_osal.git" path="./" remote="origin" revision="master" upstream="master"/>
+	<project name="rpp_osal.git" path="rpp-sw-group" remote="origin" revision="master" upstream="master"/>
 
     <!-- ssh://git@192.168.30.10:36822/rpp-sw-group/rpp-device-driver/rpp_drv_win.git  -->
-	<project name="rpp-sw-group/rpp-device-driver/rpp_drv_win.git" path="./" remote="origin" revision="master" upstream="master"/>
+	<!-- <project name="rpp_drv_win.git" path="rpp-sw-group/rpp-device-driver" remote="origin" revision="master" upstream="master"/> -->
 </manifest>
