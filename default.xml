@@ -17,7 +17,7 @@
   <project name="qioixiy/10-tools" path="10-tools" groups="default" />
   <project name="qioixiy/11-packages" path="11-packages" groups="default" /> -->
 
-  <project name="kuanghl/curses_ui" path="curses_ui" groups="default" />
+  <project name="kuang-hongliang/curses_ui" path="curses_ui" groups="default" />
 
   <!-- submodule -->
   <!-- <include name="env/default.xml" />
