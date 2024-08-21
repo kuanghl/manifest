@@ -4,6 +4,6 @@
   <remote fetch="https://github.com" name="github" review="http://github.com" revision="master" />
   <remote fetch="https://gitee.com" name="gitee" review="http://gitee.com" revision="master" />
 
-  <default remote="gitee" revision="master" sync-j="4" />
+  <default remote="github" revision="master" sync-j="4" />
 
 </manifest>
