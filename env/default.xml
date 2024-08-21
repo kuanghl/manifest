@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <include name="include.xml" />
+
+  <project name="qioixiy/favorite_list" path="20-env/favorite_list" groups="dev" remote="gitee" />
+
+  <project name="qioixiy/docker-webdav" path="20-env/docker-webdav" groups="dev" remote="gitee" />
+  <project name="qioixiy/trac-docker" path="20-env/trac-docker" groups="dev" remote="gitee" />
+  <project name="qioixiy/dokuwiki" path="20-env/dokuwiki" groups="dev" remote="gitee" />
+  <project name="qioixiy/nginx-conf" path="20-env/nginx-conf" groups="dev" remote="gitee" />
+  <project name="qioixiy/sample-code" path="20-env/sample-code" groups="dev" remote="gitee" />
+  <project name="qioixiy/emacs.d" path="20-env/emacs.d" groups="dev" remote="gitee" />
+
+</manifest>

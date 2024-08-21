@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <include name="include.xml" />
+
+  <project name="qioixiy/blog" path="21-doc/blog" groups="dev" remote="gitee" />
+
+</manifest>

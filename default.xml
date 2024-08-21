@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <manifest>
-	<remote fetch="http://192.168.30.10:36880" name="origin"/>
-    
-    <!-- ssh://git@192.168.30.10:36822/rpp-sw-group/rpp_osal.git  -->
-	<project name="rpp_osal.git" path="rpp-sw-group" remote="origin" revision="master" upstream="master"/>
 
-    <!-- ssh://git@192.168.30.10:36822/rpp-sw-group/rpp-device-driver/rpp_drv_win.git  -->
-	<!-- <project name="rpp_drv_win.git" path="rpp-sw-group/rpp-device-driver" remote="origin" revision="master" upstream="master"/> -->
+  <include name="include.xml" />
+
+  <!-- <project name="git-repo" path="tools/git-repo" groups="default" /> -->
+
+  <!-- instruction -->
+  <!-- <project name="qioixiy/startup-doc" path="00-startup/startup-doc" groups="default" >
+    <linkfile src="README.md" dest="README.md" />
+  </project>
+  <project name="qioixiy/startup-home" path="00-startup/startup-home" groups="default" />
+  <project name="qioixiy/startup-env-loader" path="00-startup/startup-env-loader" groups="dev" >
+    <linkfile src="setup.sh" dest="setup.sh" />
+  </project>
+
+  <project name="qioixiy/10-tools" path="10-tools" groups="default" />
+  <project name="qioixiy/11-packages" path="11-packages" groups="default" /> -->
+
+  <project name="kuanghl/curses_ui" path="curses_ui" groups="default" />
+
+  <!-- submodule -->
+  <!-- <include name="env/default.xml" />
+  <include name="doc/default.xml" />
+  <include name="projects/default.xml" /> -->
+
 </manifest>

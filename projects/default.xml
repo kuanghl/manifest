@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="qioixiy/scrapy_start-point" path="50-projects/scrapy/start-point" groups="projects,learning" remote="gitee" />
+  <project name="qioixiy/ai" path="50-projects/AI" groups="projects,learning,ai" remote="gitee" />
+
+  <project name="qioixiy/hr_toolset" path="50-projects/08_hr/hr_toolset" groups="projects,hr" remote="gitee" />
+  <project name="qioixiy/hr_dev-env" path="50-projects/08_hr/hr_dev-env" groups="projects,hr" remote="gitee" />
+  <project name="qioixiy/vio-studio" path="50-projects/08_hr/vio-studio" groups="projects,hr" remote="gitee" />
+
+</manifest>
